@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "01",
+        "nm_kabupaten": "Administrasi Kepulauan Seribu",
+        "total": 243
+      },
+      "geometry": {
+        "coordinates": [
+          106.57895590224163,
+          -5.700366518696024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "nm_kabupaten": "Kota Administrasi Jakarta Pusat",
+        "total": 114
+      },
+      "geometry": {
+        "coordinates": [
+          106.8351245464269,
+          -6.181200074227623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "72",
+        "nm_kabupaten": "Kota Administrasi Jakarta Utara",
+        "total": 87
+      },
+      "geometry": {
+        "coordinates": [
+          106.86661440638069,
+          -6.127183230311401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "73",
+        "nm_kabupaten": "Kota Administrasi Jakarta Barat",
+        "total": 176
+      },
+      "geometry": {
+        "coordinates": [
+          106.74830052449735,
+          -6.165332668753999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "74",
+        "nm_kabupaten": "Kota Administrasi Jakarta Selatan",
+        "total": 103
+      },
+      "geometry": {
+        "coordinates": [
+          106.81003987805231,
+          -6.272604731998036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kd_propinsi": "31",
+        "kd_kabupaten": "75",
+        "nm_kabupaten": "Kota Administrasi Jakarta Timur",
+        "total": 213
+      },
+      "geometry": {
+        "coordinates": [
+          106.90069115569867,
+          -6.25496608109452
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
