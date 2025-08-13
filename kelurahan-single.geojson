@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826707,
+          -6.176384
+        ]
+      },
+      "properties": {
+        "id": 35277,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "001",
+        "nm_kelurahan": "Gambir",
+        "total": 13
+      }
+    }
+  ]
+}

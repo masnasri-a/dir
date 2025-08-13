@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826707,
+          -6.176384
+        ]
+      },
+      "properties": {
+        "id": 35277,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "001",
+        "nm_kelurahan": "Gambir",
+        "total": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808311,
+          -6.17298
+        ]
+      },
+      "properties": {
+        "id": 35274,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "002",
+        "nm_kelurahan": "Cideng",
+        "total": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815299,
+          -6.165354
+        ]
+      },
+      "properties": {
+        "id": 35297,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "003",
+        "nm_kelurahan": "Petojo Utara",
+        "total": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.816408,
+          -6.174771
+        ]
+      },
+      "properties": {
+        "id": 35296,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "004",
+        "nm_kelurahan": "Petojo Selatan",
+        "total": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82455,
+          -6.164151
+        ]
+      },
+      "properties": {
+        "id": 35286,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "005",
+        "nm_kelurahan": "Kebon Kelapa",
+        "total": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804582,
+          -6.163381
+        ]
+      },
+      "properties": {
+        "id": 35272,
+        "kd_propinsi": "31",
+        "kd_kabupaten": "71",
+        "kd_kecamatan": "001",
+        "kd_kelrahan": "006",
+        "nm_kelurahan": "Duri Pulo",
+        "total": 21
+      }
+    }
+  ]
+}
